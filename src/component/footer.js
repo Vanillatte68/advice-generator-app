@@ -3,7 +3,9 @@ import "../App.css";
 
 const styles = {
   footer: {
-    backgroundColor: "hsl(218, 23%, 16%)",
+    bottom: "0",
+    position: "absolute",
+    backgroundColor: "transparent",
     textAlign: "center",
     fontSize: "10px",
     padding: "10px",
